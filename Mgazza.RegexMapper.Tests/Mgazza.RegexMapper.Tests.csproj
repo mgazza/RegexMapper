@@ -59,7 +59,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Mgazza.RegexMapper\Mgazza.RegexMapper.csproj">
+    <ProjectReference Include="..\Mgazza.RegexMapper\Mgazza.RegexMapper.csproj">
       <Project>{50021605-93E2-4E40-A5D8-4FFCAE09B942}</Project>
       <Name>Mgazza.RegexMapper</Name>
     </ProjectReference>
